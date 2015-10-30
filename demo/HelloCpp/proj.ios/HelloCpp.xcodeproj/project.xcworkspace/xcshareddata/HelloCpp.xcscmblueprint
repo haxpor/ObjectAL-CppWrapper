@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "41F74B067E51638ABB1966BFDAC00A679AA7A56C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "41F74B067E51638ABB1966BFDAC00A679AA7A56C" : 0,
+    "852ED3691A47A99B0D19C820A500AE9772B2A44E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5C45A277-5E01-4CDD-A6D6-DB67520FE526",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "41F74B067E51638ABB1966BFDAC00A679AA7A56C" : "ObjectAL-CppWrapper\/",
+    "852ED3691A47A99B0D19C820A500AE9772B2A44E" : "cocos2dx\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HelloCpp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "demo\/HelloCpp\/proj.ios\/HelloCpp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/haxpor\/ObjectAL-CppWrapper.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "41F74B067E51638ABB1966BFDAC00A679AA7A56C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:cocos2d\/cocos2d-x.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "852ED3691A47A99B0D19C820A500AE9772B2A44E"
+    }
+  ]
+}
